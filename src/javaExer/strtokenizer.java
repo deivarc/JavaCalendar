@@ -15,7 +15,7 @@ import java.util.StringTokenizer;
 public class strtokenizer {
     public static void main (String args [] ) {
         System.out.println("This is an example of how a stringtokenizer works.");
-        String teststring = "John|62378122|20|||";
+        String teststring = "John|62378122|20|Software Engineer|50 BEACH ROAD|";
         /*
         E.g.
         Name | HP | age | job | address
